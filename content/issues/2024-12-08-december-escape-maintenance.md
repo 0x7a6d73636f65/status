@@ -1,6 +1,6 @@
 ---
 title: December Escape Maintenance 
-date: 2024-12-08 08:00:00
+date: 2024-12-08 00:00:00 PDT
 informational: true
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Network Maintenance Extended
-date: 2023-12-10 20:57:00
+date: 2023-12-10 12:57:00 PDT
 resolved: true
-resolvedWhen: 2023-12-10 22:40:00
+resolvedWhen: 2023-12-10 14:40:00 PDT
 severity: down
 affected:
     - Datacenter
