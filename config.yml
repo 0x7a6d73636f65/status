@@ -158,10 +158,6 @@ params:
   systems:
     - name: Aeries
       category: Datacenter
-    - name: Panorama
-      category: Datacenter
-    - name: Network Monitoring System
-      category: Datacenter
     - name: SFTP
       category: Datacenter
     - name: Internet Connectivity
@@ -169,6 +165,10 @@ params:
     - name: Internal Connectivity
       category: Network
     - name: Internal WiFi
+      category: Network
+    - name: Network Monitoring
+      category: Network
+    - name: Panorama
       category: Network
     - name: VPN
       category: Network
