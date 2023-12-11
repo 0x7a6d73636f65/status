@@ -143,8 +143,10 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: Network
     - name: Datacenter
+    - name: Escape Services
+    - name: Network
+
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -154,22 +156,29 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Internet
+    - name: Aeries
+      category: Datacenter
+    - name: Panorama
+      category: Datacenter
+    - name: Network Monitoring System
+      category: Datacenter
+    - name: SFTP
+      category: Datacenter
+    - name: Internet Connectivity
       category: Network
-    - name: Internal
+    - name: Internal Connectivity
+      category: Network
+    - name: Internal WiFi
       category: Network
     - name: VPN
       category: Network
-    - name: Website
-      description: The web frontend for the application.
-      category: Uncategorized
-      link: https://example.com/
-    - name: API
-      description: The guts of the application.
-      category: Uncategorized
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
-      category: Uncategorized
+    - name: Escape Application
+      category: Escape Services
+    - name: Escape Employee Portal
+      category: Escape Services
+    - name: Escape Online6
+      category: Escape Services
+
 
   # What date format to use?
   #
@@ -180,7 +189,7 @@ params:
   #
   # dateFormat Default: "January 2, 2006 at 3:04 PM"
   # shortDateFormat Default: "15:04 — Jan 2"
-  dateFormat: January 2, 2006 at 3:04 PM UTC
+  dateFormat: January 2, 2006 at 3:04 PM PDT
   shortDateFormat: 15:04 UTC — Jan 2
 
   # Should relative time (x min ago) be used?
