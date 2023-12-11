@@ -1,8 +1,8 @@
 ---
 title: Escape Services Degraded
-date: 2023-12-10 17:23:00 PDT
+date: 2023-12-10 17:23:00
 resolved: true
-resolvedWhen: 2023-12-10 19:51:00 PDT
+resolvedWhen: 2023-12-10 19:51:00
 severity: disrupted
 affected:
     - Escape Services

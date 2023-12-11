@@ -1,6 +1,6 @@
 ---
 title: June Escape Maintenance
-date: 2024-06-09 00:00:00 PDT
+date: 2024-06-09 00:00:00
 informational: true
 ---
 

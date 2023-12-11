@@ -1,6 +1,6 @@
 ---
 title: May Escape Maintenance
-date: 2024-05-12 00:00:00 PDT
+date: 2024-05-12 00:00:00
 informational: true
 ---
 

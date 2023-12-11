@@ -1,6 +1,6 @@
 ---
 title: February Escape Maintenance 
-date: 2024-02-11 00:00:00 PDT
+date: 2024-02-11 00:00:00
 informational: true
 section: issue
 ---
