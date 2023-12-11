@@ -8,7 +8,7 @@ affected:
     - Datacenter
     - Escape Services
     - Network
-section: post
+section: issue
 ---
 
 The network maintenance must be extended for 1-2 hours to complete a version upgrade. Apologies for the inconvenience.
