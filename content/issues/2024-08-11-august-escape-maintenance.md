@@ -1,6 +1,6 @@
 ---
 title: August Escape Maintenance 
-date: 2024-08-11 00:00:00 PDT
+date: 2024-08-11 00:00:00
 informational: true
 ---
 
