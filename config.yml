@@ -172,11 +172,11 @@ params:
       category: Network
     - name: VPN
       category: Network
-    - name: Escape Application
+    - name: Application Servers
       category: Escape Services
-    - name: Escape Employee Portal
+    - name: Employee Portal
       category: Escape Services
-    - name: Escape Online6
+    - name: Online6
       category: Escape Services
 
 
