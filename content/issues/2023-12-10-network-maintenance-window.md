@@ -1,6 +1,6 @@
 ---
 title: Network Maintenance Announcement 
-date: 2023-12-10 11:00:00 
+date: 2023-12-10 11:00:00 UTC
 informational: true
 section: issue
 ---
