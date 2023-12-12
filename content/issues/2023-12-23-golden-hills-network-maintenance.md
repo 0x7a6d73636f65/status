@@ -5,7 +5,6 @@ informational: true
 section: issue
 ---
 
-**Date**: Saturday, December 23rd
 **Site**: Golden Hills
 **Time**: 10:30AM-1PM
 **Duration**: 2.5 hours
