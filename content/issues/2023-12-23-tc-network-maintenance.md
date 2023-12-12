@@ -5,7 +5,6 @@ informational: true
 section: issue
 ---
 
-**Date**: Saturday, December 23rd
 **Site**: TC McDaniel
 **Time**: 9AM-11AM
 **Duration**: 2 hours
