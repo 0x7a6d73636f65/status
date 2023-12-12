@@ -5,7 +5,6 @@ informational: true
 section: issue
 ---
 
-**Date**: Wednesday, December 27th
 **Site**: Irene Larsen
 **Time**: 9AM-5PM
 **Duration**: 8 hours
