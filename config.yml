@@ -164,6 +164,10 @@ params:
       category: Escape Services
     - name: Aeries
       category: Hosted Services
+    - name: Network Monitoring
+      category: Hosted Services
+    - name: Panorama
+      category: Hosted Services
     - name: Secure File Transfer
       category: Hosted Services
     - name: Internet
@@ -179,10 +183,6 @@ params:
     - name: Main Office
       category: Network
     - name: TC McDaniel
-      category: Network
-    - name: Monitoring
-      category: Network
-    - name: Panorama
       category: Network
     - name: VPN
       category: Network
