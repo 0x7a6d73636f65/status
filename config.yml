@@ -156,11 +156,17 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
+    - name: Application Servers
+      category: Escape Services
+    - name: Employee Portal
+      category: Escape Services
+    - name: Online6
+      category: Escape Services
     - name: Aeries
       category: Hosted Services
     - name: Secure File Transfer
       category: Hosted Services
-    - name: Internet Connectivity
+    - name: Internet Access
       category: Network
     - name: Internal Connectivity
       category: Network
@@ -170,12 +176,6 @@ params:
       category: Network
     - name: VPN
       category: Network
-    - name: Application Servers
-      category: Escape Services
-    - name: Employee Portal
-      category: Escape Services
-    - name: Online6
-      category: Escape Services
 
 
   # What date format to use?
