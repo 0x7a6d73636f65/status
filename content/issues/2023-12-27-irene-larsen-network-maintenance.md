@@ -11,4 +11,4 @@ section: issue
 **Duration**: 8 hours
 
 **Purpose**: To replace all aging network switches across the site.
-**Affected Services**: Internet connectivity will be unavailable or intermittent throughout the day.
+**Affected Services**: Internet connectivity for the site will be unavailable or intermittent throughout the day.
