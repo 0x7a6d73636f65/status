@@ -166,7 +166,7 @@ params:
       category: Hosted Services
     - name: Network Monitoring
       category: Hosted Services
-    - name: Panorama
+    - name: Panorama Management
       category: Hosted Services
     - name: Secure File Transfer
       category: Hosted Services
