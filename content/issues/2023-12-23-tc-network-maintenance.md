@@ -11,4 +11,4 @@ section: issue
 **Duration**: 2 hours
 
 **Purpose**: To replace aging network switches.
-**Affected Services**: Internet connectivity will be unavailable.
+**Affected Services**: Internet connectivity will be unavailable for the site.
