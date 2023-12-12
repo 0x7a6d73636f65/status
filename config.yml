@@ -143,9 +143,9 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: Datacenter
     - name: Escape Services
-    - name: Network
+    - name: Hosted Services
+    - name: Network    
 
 
   # These are your systems. Change them to
@@ -157,9 +157,9 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
     - name: Aeries
-      category: Datacenter
-    - name: File Transfer
-      category: Datacenter
+      category: Hosted Services
+    - name: Secure File Transfer
+      category: Hosted Services
     - name: Internet Connectivity
       category: Network
     - name: Internal Connectivity
