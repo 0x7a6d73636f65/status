@@ -5,7 +5,7 @@ resolved: true
 resolvedWhen: 2023-12-10 14:40:00
 severity: down
 affected:
-    - Datacenter
+    - Hosted Services
     - Escape Services
     - Network
 section: issue
