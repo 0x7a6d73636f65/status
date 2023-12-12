@@ -6,8 +6,11 @@ section: issue
 ---
 
 **Site**: Golden Hills
+
 **Time**: 10:30AM-1PM
+
 **Duration**: 2.5 hours
 
 **Purpose**: To replace aging network switches.
+
 **Affected Services**: Internet connectivity will be unavailable for the site.
