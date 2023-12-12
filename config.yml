@@ -158,7 +158,7 @@ params:
   systems:
     - name: Aeries
       category: Datacenter
-    - name: SFTP
+    - name: File Transfer
       category: Datacenter
     - name: Internet Connectivity
       category: Network
