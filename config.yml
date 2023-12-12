@@ -166,21 +166,21 @@ params:
       category: Hosted Services
     - name: Secure File Transfer
       category: Hosted Services
-    - name: Internet Access
+    - name: Internet
       category: Network
-    - name: Datacenter
+    - name: Data Center
       category: Network
     - name: Golden Hills
       category: Network
     - name: Irene Larsen
       category: Network
+    - name: Juvenile Hall
+      category: Network
     - name: Main Office
       category: Network
     - name: TC McDaniel
       category: Network
-    - name: Juvenile Hall
-      category: Network
-    - name: Network Monitoring
+    - name: Monitoring
       category: Network
     - name: Panorama
       category: Network
