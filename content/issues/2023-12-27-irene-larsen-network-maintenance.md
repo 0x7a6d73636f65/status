@@ -6,8 +6,11 @@ section: issue
 ---
 
 **Site**: Irene Larsen
+
 **Time**: 9AM-5PM
+
 **Duration**: 8 hours
 
 **Purpose**: To replace all aging network switches across the site.
+
 **Affected Services**: Internet connectivity for the site will be unavailable or intermittent throughout the day.
