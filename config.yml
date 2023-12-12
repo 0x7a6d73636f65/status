@@ -164,8 +164,6 @@ params:
       category: Network
     - name: Internal Connectivity
       category: Network
-    - name: Internal WiFi
-      category: Network
     - name: Network Monitoring
       category: Network
     - name: Panorama
