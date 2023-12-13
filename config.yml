@@ -174,6 +174,8 @@ params:
       category: Network
     - name: VPN
       category: Network
+    - name: Data Center
+      category: Network
     - name: Main Office
       category: Network
     - name: Golden Hills
@@ -183,8 +185,6 @@ params:
     - name: TC McDaniel
       category: Network
     - name: Juvenile Hall
-      category: Network
-    - name: Data Center
       category: Network
       
 
