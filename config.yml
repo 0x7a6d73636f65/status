@@ -172,6 +172,8 @@ params:
       category: Hosted Services
     - name: Internet
       category: Network
+    - name: VPN
+      category: Network
     - name: Data Center
       category: Network
     - name: Golden Hills
@@ -183,8 +185,6 @@ params:
     - name: Main Office
       category: Network
     - name: TC McDaniel
-      category: Network
-    - name: VPN
       category: Network
 
 
