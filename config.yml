@@ -144,8 +144,8 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
     - name: Escape Services
+    - name: Network
     - name: Hosted Services
-    - name: Network    
 
 
   # These are your systems. Change them to
