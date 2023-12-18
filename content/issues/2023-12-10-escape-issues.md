@@ -11,4 +11,4 @@ section: issue
 
 *Monitoring* - A fix has been put in-place. Some application servers were inaccessible and causing timeouts.
 
-*Investigating* - The Escape mainenance window is still in affect, however, some users are reporting intermittent issues.
+*Investigating* - The Escape maintenance window is still in affect, however, some users are reporting intermittent issues.
