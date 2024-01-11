@@ -3,7 +3,7 @@ title: Network Maintenance
 date: 2024-02-11 10:00:00
 informational: true
 pin: true
-affected services:
+affected:
     - Escape Services
     - Hosted Services
     - Network
