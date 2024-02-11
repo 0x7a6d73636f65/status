@@ -9,7 +9,6 @@ affected:
   - Employee Portal
   - Online6
 section: issue
-pin: true
 ---
 
 **Time**: 2024-02-11 00:00:00
