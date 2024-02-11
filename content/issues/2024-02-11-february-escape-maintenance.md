@@ -10,7 +10,6 @@ affected:
   - Online6
 section: issue
 informational: true
-pin: true
 ---
 
 **Completed**: 2024-02-11 13:00:00
