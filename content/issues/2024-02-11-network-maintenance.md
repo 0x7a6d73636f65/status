@@ -20,6 +20,7 @@ affected:
   - TC McDaniel
   - Juvenile Hall
 section: issue
+pin: true
 ---
 
 **Time**: 2024-02-11 10:00:00
