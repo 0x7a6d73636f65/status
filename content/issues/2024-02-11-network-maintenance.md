@@ -2,11 +2,27 @@
 title: Network Maintenance
 date: 2024-02-11 10:00:00
 resolved: false
+resolvedWhen: 2024-02-11 12:00:00
+severity: down
 affected:
-    - Escape Services
-    - Hosted Services
-    - Network
+  - Application Servers
+  - Employee Portal
+  - Online6
+  - Aeries
+  - Network Monitoring
+  - Panorama Management
+  - Secure File Transfer
+  - Internet
+  - VPN
+  - Data Center
+  - Main Office
+  - Golden Hills
+  - Irene Larsen
+  - TC McDaniel
+  - Juvenile Hall
 section: issue
+informational: true
+pin: true
 ---
 
 **Time**: 2024-02-11 10:00:00
