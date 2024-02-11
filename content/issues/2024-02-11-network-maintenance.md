@@ -1,8 +1,8 @@
 ---
 title: Network Maintenance
 date: 2024-02-11 10:00:00
-resolved: false
-resolvedWhen: 2024-02-11 12:00:00
+resolved: true
+resolvedWhen: 2024-02-11 11:40:00
 severity: down
 affected:
   - Application Servers
