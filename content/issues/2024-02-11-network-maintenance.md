@@ -3,6 +3,7 @@ title: Network Maintenance
 date: 2024-02-11 10:00:00
 resolved: false
 resolvedWhen: 2024-02-11 12:00:00
+severity: down
 affected:
   - Application Servers
   - Employee Portal
@@ -20,7 +21,6 @@ affected:
   - TC McDaniel
   - Juvenile Hall
 section: issue
-pin: true
 ---
 
 **Time**: 2024-02-11 10:00:00
