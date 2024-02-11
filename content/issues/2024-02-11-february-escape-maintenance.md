@@ -5,7 +5,9 @@ resolved: false
 resolvedWhen: 2024-02-11 23:59:59
 severity: disrupted
 affected:
-    - Escape Services
+	- Application Servers
+	- Employee Portal
+	- Online6
 section: issue
 ---
 
