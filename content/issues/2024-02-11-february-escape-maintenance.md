@@ -2,7 +2,8 @@
 title: February Escape Maintenance 
 date: 2024-02-11 00:00:00
 resolved: false
-severity: degraded
+resolvedWhen: 2024-02-11 23:59:59
+severity: disrupted
 affected:
     - Escape Services
 section: issue
