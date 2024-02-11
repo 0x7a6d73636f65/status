@@ -8,7 +8,8 @@ affected:
   - Application Servers
   - Employee Portal
   - Online6
-section: post
+section: issue
+informational: true
 ---
 
 **Time**: 2024-02-11 00:00:00
