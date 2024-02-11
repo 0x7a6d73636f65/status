@@ -1,7 +1,6 @@
 ---
 title: February Escape Maintenance 
 date: 2024-02-11 00:00:00
-resolved: false
 affected:
     - Escape Services
 section: issue
