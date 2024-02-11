@@ -1,8 +1,8 @@
 ---
 title: February Escape Maintenance 
 date: 2024-02-11 00:00:00
-resolved: false
-resolvedWhen: 2024-02-11 23:59:59
+resolved: true
+resolvedWhen: 2024-02-11 13:00:00
 severity: disrupted
 affected:
   - Application Servers
@@ -12,6 +12,8 @@ section: issue
 informational: true
 pin: true
 ---
+
+**Completed**: 2024-02-11 13:00:00
 
 **Time**: 2024-02-11 00:00:00
 
