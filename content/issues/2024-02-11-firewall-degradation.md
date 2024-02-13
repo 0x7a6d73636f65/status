@@ -8,10 +8,9 @@ affected:
   - Employee Portal
   - Online6
   - Aeries
-  - Network Monitoring
-  - Panorama Management
   - Secure File Transfer
   - Internet
+  - VPN
 section: issue
 informational: true
 pin: true
