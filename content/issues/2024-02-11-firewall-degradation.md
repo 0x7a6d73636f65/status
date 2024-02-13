@@ -12,13 +12,6 @@ affected:
   - Panorama Management
   - Secure File Transfer
   - Internet
-  - VPN
-  - Data Center
-  - Main Office
-  - Golden Hills
-  - Irene Larsen
-  - TC McDaniel
-  - Juvenile Hall
 section: issue
 informational: true
 pin: true
