@@ -18,6 +18,8 @@ informational: true
 pin: true
 ---
 
+*2024-02-13 14:45:00* - Our case has been transferred to Engineering from Support.
+
 *2024-02-13 13:57:00* - Cards are back in service.
 
 *2024-02-13 13:40:00* - Cards are not automatically restarting. We are manually restarting the cards.
