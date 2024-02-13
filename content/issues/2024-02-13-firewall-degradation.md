@@ -1,5 +1,5 @@
 ---
-title: Firewall Degraded - All Services Disrupted
+title: Firewall Degraded - Connectivity & Services Disrupted
 date: 2024-02-13 13:36:00
 resolved: false
 severity: disrupted
