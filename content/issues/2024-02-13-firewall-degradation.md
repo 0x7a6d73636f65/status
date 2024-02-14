@@ -18,16 +18,18 @@ informational: true
 pin: true
 ---
 
-*2024-02-13 16:03:00* - Cards are back in service.
+*2024-02-13 18:42* - Outage: Card rebooted.
 
-*2024-02-13 15:53:00* - One set of cards rebooted
+*2024-02-13 16:03* - Cards are back in service.
 
-*2024-02-13 14:45:00* - Our case has been transferred to Engineering from Support.
+*2024-02-13 15:53* - One set of cards rebooted
 
-*2024-02-13 13:57:00* - Cards are back in service.
+*2024-02-13 14:45* - Our case has been transferred to Engineering from Support.
 
-*2024-02-13 13:40:00* - Cards are not automatically restarting. We are manually restarting the cards.
+*2024-02-13 13:57* - Cards are back in service.
 
-*2024-02-13 13:36:00* - Cards have rebooted causing an outage.
+*2024-02-13 13:40* - Cards are not automatically restarting. We are manually restarting the cards.
+
+*2024-02-13 13:36* - Cards have rebooted causing an outage.
 
 SCOE is currently working with our firewall vendor to resolve an issue with restarting line cards. Connectivity through SCOE is currently intermittent.
