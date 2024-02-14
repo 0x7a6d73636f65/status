@@ -19,6 +19,7 @@ pin: true
 ---
 
 - **2024-02-14**
+  - *2:06PM* - Outage cleared.
   - *1:59PM* - Outage due to card reboot.
   - *12:21PM* - Outage cleared.
   - *12:16PM* - Outage due to card reboot.
