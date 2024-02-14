@@ -19,17 +19,17 @@ pin: true
 ---
 
 - **2024-02-14**
-  - *08:44* - Awaiting case update.
+  - *8:44AM* - Awaiting case update.
 - **2024-02-13**
-  - *23:54* - Outage Cleared: Card online.
-  - *23:47* - Outage: Card rebooted.
-  - *18:58* - Outage Cleared: Cards back online.
-  - *18:42* - Outage: Card rebooted.
-  - *16:03* - Cards are back in service.
-  - *15:53* - One set of cards rebooted
-  - *14:45* - Our case has been transferred to Engineering from Support.
-  - *13:57* - Cards are back in service.
-  - *13:40* - Cards are not automatically restarting. We are manually restarting the cards.
-  - *13:36* - Cards have rebooted causing an outage.
+  - *11:54PM* - Outage Cleared: Card online.
+  - *11:47PM* - Outage: Card rebooted.
+  - *6:58PM* - Outage Cleared: Cards back online.
+  - *6:42PM* - Outage: Card rebooted.
+  - *4:03PM* - Cards are back in service.
+  - *3:53PM* - One set of cards rebooted
+  - *2:45PM* - Our case has been transferred to Engineering from Support.
+  - *1:57PM* - Cards are back in service.
+  - *1:40PM* - Cards are not automatically restarting. We are manually restarting the cards.
+  - *1:36PM* - Cards have rebooted causing an outage.
 
 SCOE is currently working with our firewall vendor to resolve an issue with restarting line cards. Connectivity through SCOE is currently intermittent.
