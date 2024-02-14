@@ -19,6 +19,7 @@ pin: true
 ---
 
 - **2024-02-14**
+  - *12:21PM* - Outage due to card reboot.
   - *8:44AM* - Awaiting case update.
 - **2024-02-13**
   - *11:54PM* - Outage Cleared: Card online.
