@@ -18,6 +18,10 @@ informational: true
 pin: true
 ---
 
+*2024-02-13 16:03:00* - Cards are back in service.
+
+*2024-02-13 15:53:00* - One set of cards rebooted
+
 *2024-02-13 14:45:00* - Our case has been transferred to Engineering from Support.
 
 *2024-02-13 13:57:00* - Cards are back in service.
