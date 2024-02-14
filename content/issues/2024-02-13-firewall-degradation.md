@@ -18,7 +18,7 @@ informational: true
 pin: true
 ---
 
-*2024-02-13 23:54* - Outage Clear: Card online.
+*2024-02-13 23:54* - Outage Cleared: Card online.
 
 *2024-02-13 23:47* - Outage: Card rebooted.
 
