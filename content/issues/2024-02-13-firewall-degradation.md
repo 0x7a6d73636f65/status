@@ -18,7 +18,13 @@ informational: true
 pin: true
 ---
 
+- **2024-02-15**
+  - *3:07AM* - Outage cleared.
+  - *2:51AM* - Outage due to card reboot.
 - **2024-02-14**
+  - *11:31PM* - Case team is still actively investigating the issue.
+  - *9:27PM* - Outage cleared.
+  - *9:11PM* - Outage due to card reboot.
   - *4:10PM* - The issue has been assigned an internal case number with our vendor; further diagnosis is being done.
   - *3:44PM* - Support Engineer states issue likely software related; working with another team to further diagnose.
   - *3:27PM* - Outage cleared.
