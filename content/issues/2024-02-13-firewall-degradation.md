@@ -19,6 +19,7 @@ pin: true
 ---
 
 - **2024-02-14**
+  - *3:44PM* - Support Engineer states issue likely software related; working with another team to further diagnose.
   - *3:27PM* - Outage cleared.
   - *3:19PM* - Outage due to card reboot.
   - *3:08PM* - Outage cleared.
