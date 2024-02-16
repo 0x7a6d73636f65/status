@@ -19,6 +19,7 @@ pin: true
 ---
 
 - **2024-02-15**
+  - *4:33PM* - Instead of having back to back outages..we are going to apply the workaround now.
   - *4:31PM* - Outage due to card reboot.
   - *1:49PM* - Outage cleared.
   - *1:45PM* - Recovery taking longer than usual.
