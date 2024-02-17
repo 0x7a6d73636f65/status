@@ -13,7 +13,7 @@ affected:
   - Secure File Transfer
   - Internet
   - VPN
-section: issue
+section: post
 informational: true
 pin: true
 ---
