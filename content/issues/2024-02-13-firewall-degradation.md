@@ -2,7 +2,7 @@
 title: Firewall Degraded - Connectivity & Services Disrupted
 date: 2024-02-13 13:36:00
 resolved: false
-severity: disrupted
+severity: notice
 affected:
   - Application Servers
   - Employee Portal
@@ -18,6 +18,8 @@ informational: true
 pin: true
 ---
 
+- **2024-02-17**
+  - *7:18AM* - No outages since workaround applied.
 - **2024-02-16**
   - *6:52AM* - No outages seen so far.
 - **2024-02-15**
