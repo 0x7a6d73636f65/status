@@ -1,7 +1,8 @@
 ---
 title: Firewall Degraded - Connectivity & Services Disrupted
 date: 2024-02-13 13:36:00
-resolved: false
+resolved: true
+resolvedWhen: 2024-02-15 16:49:00
 severity: notice
 affected:
   - Application Servers
@@ -13,7 +14,7 @@ affected:
   - Secure File Transfer
   - Internet
   - VPN
-section: post
+section: issue
 informational: true
 pin: true
 ---
