@@ -1,7 +1,7 @@
 ---
 title: March Escape Maintenance 
 date: 2024-03-10 00:00:00
-resolved: false
+resolved: true
 resolvedWhen: 2024-03-10 23:59:59
 severity: notice
 affected:
