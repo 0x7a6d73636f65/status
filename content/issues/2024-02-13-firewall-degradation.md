@@ -18,7 +18,8 @@ section: issue
 informational: true
 pin: true
 ---
-
+- **2024-02-26**
+  - *10:37AM* - Our vendor believes they know what new changes have caused the issues, but are still working on determining what is causing the bug.
 - **2024-02-17**
   - *7:18AM* - No outages since workaround applied.
 - **2024-02-16**
