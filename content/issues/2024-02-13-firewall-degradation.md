@@ -16,7 +16,7 @@ affected:
   - VPN
 section: issue
 informational: true
-pin: true
+pin: false
 ---
 
 - **2024-02-26**
