@@ -7,7 +7,6 @@ severity: notice
 affected:
     - Escape Services
     - Aeries
-    - Network Monitoring
     - Secure File Transfer
 section: issue
 informational: true
