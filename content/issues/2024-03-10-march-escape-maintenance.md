@@ -6,8 +6,6 @@ resolvedWhen: 2024-03-10 23:59:59
 severity: notice
 affected:
     - Escape Services
-    - Aeries
-    - Secure File Transfer
 section: issue
 informational: true
 pin: true
