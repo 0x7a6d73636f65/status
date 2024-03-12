@@ -1,10 +1,14 @@
 ---
 title: July Escape Maintenance 
 date: 2024-07-14 00:00:00
-informational: true
+resolved: true
+resolvedWhen: 2024-07-14 23:59:59
+severity: notice
 affected:
     - Escape Services
 section: issue
+informational: true
+pin: false
 ---
 
 **Time**: 2024-07-14 00:00:00

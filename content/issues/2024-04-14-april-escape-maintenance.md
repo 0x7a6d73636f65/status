@@ -1,10 +1,14 @@
 ---
 title: April Escape Maintenance 
 date: 2024-04-14 00:00:00
-informational: true
+resolved: true
+resolvedWhen: 2024-04-14 23:59:59
+severity: notice
 affected:
     - Escape Services
 section: issue
+informational: true
+pin: true
 ---
 
 **Time**: 2024-04-14 00:00:00
