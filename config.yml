@@ -76,7 +76,7 @@ languageCode: en
 # For enableMissingTranslationPlaceholders—
 # do not set it to true for languages other
 # than English! When tested with Lithuanian,
-# it would add unnecesary placeholders to
+# it would add unnecessary placeholders to
 # values that were intentionally empty.
 defaultContentLanguage: en
 
@@ -133,7 +133,7 @@ params:
   #   and the user can expand by clicking on the category
   #   (Requires JavaScript.)
   # - untitled boolean `untitled: true`
-  #   This would complerely hide the name of the category.
+  #   This would completely hide the name of the category.
   #   This is useful, if you do not want to use categories
   #   because you need to set an 'Uncategorized' category.
   #   Or it can be used alongside other categories.
@@ -158,34 +158,59 @@ params:
   systems:
     - name: Application Servers
       category: Escape Services
+      displayName: Escape Servers
+      description: Services for the Escape Online 5 client.
     - name: Employee Portal
       category: Escape Services
+      displayName: Escape Employee Portal
+      description: Web services for Employees.
     - name: Online6
       category: Escape Services
+      displayName: Escape Online6
+      description: Web version of the Escape Online 5 client.
     - name: Aeries
       category: Hosted Services
+      description: Web server for AERIES Student Information System (SIS).
     - name: Network Monitoring
       category: Hosted Services
+      description: Web server for network monitoring and utilization services.
     - name: Panorama Management
       category: Hosted Services
+      displayName: Enhanced Services Management
+      description: Web server for firewall management services.
     - name: Secure File Transfer
       category: Hosted Services
+      displayName: Secure File Transfer (SFTP)
+      description: Web server for secure file transfers.
     - name: Internet
       category: Network
+      displayName: Internet (County)
+      description: Overall Internet connectivity to CENIC.
+#    - name: Failover Internet
+#      category: Network
+#      displayName: Internet (SCOE)
+#      description: Backup Internet connectivity for SCOE.
     - name: VPN
       category: Network
+      description: SCOE VPN services.
     - name: Data Center
       category: Network
+      description: SCOE data center connectivity.
     - name: Main Office
       category: Network
+      description: SCOE Main Office connectivity.
     - name: Golden Hills
       category: Network
+      description: Golden Hills Community School connectivity.
     - name: Irene Larsen
       category: Network
+      description: Irene Larsen Center connectivity.
     - name: TC McDaniel
       category: Network
+      description: TC McDaniel Special Education connectivity.
     - name: Juvenile Hall
       category: Network
+      description: Solano County Juvenile Detention Facility education network connectivity.
       
 
   # What date format to use?
@@ -202,8 +227,8 @@ params:
 
   # Should relative time (x min ago) be used?
   #
-  # IMPORTANT: In the frontmatter, the dates MUST be in
-  # the UTC time zone for this to work preperly. If you 
+  # IMPORTANT: In the front matter, the dates MUST be in
+  # the UTC time zone for this to work properly. If you 
   # use Netlify CMS, all good — the CMS picks UTC time
   # by default. Otherwise, there may be very inaccurate
   # times if multiple time zones are in your issue files.
@@ -219,7 +244,7 @@ params:
   # If enabled, will display relative times in places like
   # the incident history and summaries instead of using
   # dateFormat and shortDateFormat (except for if you use
-  # the old shortcode).
+  # the old short code).
   #
   # Default: `true`
   # BOOLEAN; `true`, `false`
