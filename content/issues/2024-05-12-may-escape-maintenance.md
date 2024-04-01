@@ -5,7 +5,9 @@ resolved: true
 resolvedWhen: 2024-05-12 23:59:59
 severity: notice
 affected:
-    - Escape Services
+  - Application Servers
+  - Employee Portal
+  - Online6
 section: issue
 informational: true
 pin: false

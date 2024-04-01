@@ -8,7 +8,7 @@ informational: true
 pin: true
 ---
 
-**Time**: 2024-04-20 09:00:00
+**Time**: 2024-04-27 09:00:00
 
 **Site**: Golden Hills - Building 5
 
