@@ -14,7 +14,7 @@ pin: true
 
 **Duration**: 2 hours
 
-**Purpose**: IST will be replacing network equipment in Building 5
+**Purpose**: IST will be replacing network equipment as part of our device lifecycle and to prepare for future upgrades.
 
 **Affected Services**: 
   - Golden Hills
