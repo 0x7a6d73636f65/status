@@ -21,7 +21,6 @@ pin: true
 
 **Purpose**: The county firewall will receive a software update.
 
-**Affected Services**: 
-  - Internet connectivity will be unavailable.
+**Affected Services**: Internet connectivity will be unavailable for SCOE and enhanced services districts. Hosted services such as Aeries, Escape, SFTP (etc...) will be unavailable.
 
 **Note**: We will be monitoring the county firewall throughout the rest of the day to verify the new software fixes our connectivity issue. There may be additional downtime during the day if I have to reimplement a workaround.
