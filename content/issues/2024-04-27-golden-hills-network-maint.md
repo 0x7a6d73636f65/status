@@ -17,4 +17,4 @@ pin: true
 **Purpose**: IST will be replacing network equipment as part of our device lifecycle and to prepare for future upgrades.
 
 **Affected Services**: 
-  - Golden Hills
+  - Internet connectivity per building.
