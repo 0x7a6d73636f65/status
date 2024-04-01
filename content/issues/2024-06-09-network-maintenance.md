@@ -1,5 +1,5 @@
 ---
-title: Network Maintenance
+title: June Network Maintenance
 date: 2024-06-09 00:00:00
 section: issue
 affected:
