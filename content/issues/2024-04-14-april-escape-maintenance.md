@@ -8,6 +8,9 @@ affected:
   - Application Servers
   - Employee Portal
   - Online6
+  - Secure File Transfer
+  - Aeries
+  - Data Center
 section: issue
 informational: true
 pin: true
