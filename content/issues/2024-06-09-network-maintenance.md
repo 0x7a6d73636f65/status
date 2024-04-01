@@ -3,7 +3,14 @@ title: June Network Maintenance
 date: 2024-06-09 00:00:00
 section: issue
 affected:
-    - Internet
+  - Application Servers
+  - Employee Portal
+  - Online6
+  - Aeries
+  - Panorama Management
+  - Secure File Transfer
+  - Internet
+  - VPN
 informational: true
 pin: true
 ---
