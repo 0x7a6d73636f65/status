@@ -13,7 +13,7 @@ affected:
   - Data Center
 section: issue
 informational: true
-pin: true
+pin: false
 ---
 
 **Time**: 2024-04-14 00:00:00
