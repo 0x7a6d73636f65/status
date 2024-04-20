@@ -5,7 +5,7 @@ section: issue
 affected:
     - Golden Hills
 informational: true
-pin: true
+pin: false
 ---
 
 **Time**: 2024-04-20 09:00:00
