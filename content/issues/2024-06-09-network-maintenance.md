@@ -2,6 +2,7 @@
 title: June Network Maintenance
 date: 2024-06-09 00:00:00
 section: issue
+resolved: false
 affected:
   - Application Servers
   - Employee Portal
@@ -14,6 +15,8 @@ affected:
 informational: true
 pin: true
 ---
+
+**Update 2024-06-09 12:37AM**: The update has been completed successfully. We will be monitoring throughout Sunday for any issues. There may be unexpected downtime if a workaround needs to be put in place during the day.
 
 **Time**: 2024-06-09 12:00:00AM
 
