@@ -2,7 +2,6 @@
 title: June Network Maintenance
 date: 2024-06-09 00:00:00
 section: issue
-resolved: false
 affected:
   - Application Servers
   - Employee Portal
