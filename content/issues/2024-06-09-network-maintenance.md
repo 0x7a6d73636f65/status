@@ -12,7 +12,7 @@ affected:
   - Internet
   - VPN
 informational: true
-pin: true
+pin: false
 ---
 
 **Update 2024-06-09 12:37AM**: The update has been completed successfully. We will be monitoring throughout Sunday for any issues. There may be unexpected downtime if a workaround needs to be put in place during the day.
