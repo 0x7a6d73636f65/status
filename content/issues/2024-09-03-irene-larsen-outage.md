@@ -13,7 +13,4 @@ pin: true
 
 **Time**: 2024-09-03 14:20:00
 
-**Duration**: All Day
-
 There is a major outage at Irene Larsen due to a nearby accident and fire. Internet services are unavailable at the site.
-
