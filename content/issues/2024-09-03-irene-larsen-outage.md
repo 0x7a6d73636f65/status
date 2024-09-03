@@ -7,8 +7,8 @@ severity: down
 affected:
   - Irene Larsen
 section: issue
-informational: true
-pin: true
+informational: false
+pin: false
 ---
 
 **Time**: 2024-09-03 14:20:00
