@@ -8,7 +8,7 @@ affected:
   - Irene Larsen
 section: issue
 informational: false
-pin: false
+pin: true
 ---
 
 **Time**: 2024-09-03 14:20:00
