@@ -17,4 +17,6 @@ pin: true
 
 **Duration**: All Day
 
+## Notice: <font color='red'>Extended downtime expected for this maintenance.</font>
+
 The monthly second Sunday Escape maintenance will occur on this date. Escape services and connectivity may be intermittent throughout the day.
