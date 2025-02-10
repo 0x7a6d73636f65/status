@@ -22,10 +22,10 @@ affected:
   - Juvenile Hall
 section: issue
 informational: true
-pin: true
+pin: false
 ---
 
-7:35 Upgrades completed. Monitoring for any irregularities.
+7:35AM Upgrades completed. Monitoring for any irregularities.
 
 7:15AM Upgrades are in-progress.
 
