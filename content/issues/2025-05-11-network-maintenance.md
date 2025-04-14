@@ -25,6 +25,6 @@ pin: true
 
 **Site**: All SCOE sites and districts.
 
-**Purpose**: To upgrade the firmware of various network equipment and hardware components.
+**Purpose**: To update multiple network devices to fix important security vulnerabilities.
 
-**Affected Services**: All Internet and VPN access into and out of SCOE and districts will be intermittent.
+**Affected Services**: All Internet and VPN access  will be intermittent.
