@@ -1,6 +1,6 @@
 ---
 title: Comcast Outage
-date: 2025-04-14 11:15:00
+date: 2025-04-14 13:15:00
 resolved: true
 resolvedWhen: 2025-04-14 16:49:00
 severity: down
