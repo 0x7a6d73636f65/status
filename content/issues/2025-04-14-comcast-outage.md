@@ -28,3 +28,5 @@ pin: false
 **4:28PM** - A Comcast tech is on-site to begin repair work.
 
 **4:49PM** - The issue is resolved.
+
+**2025-04-15 8:31AM** - Post mortem shows that circuits were down due to a micro-bend of the fiber at the Comcast Central Office headend.
