@@ -14,8 +14,8 @@ affected:
   - Internet
   - VPN
   - Data Center
-section: issue
-informational: true
+section: notice
+informational: false
 pin: true
 ---
 
