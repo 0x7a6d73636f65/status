@@ -1,7 +1,7 @@
 ---
 title: Network Maintenance
 date: 2025-05-11 07:00:00
-resolved: true
+resolved: false
 resolvedWhen: 2025-05-11 10:00:00
 severity: down
 affected:
@@ -14,7 +14,7 @@ affected:
   - Internet
   - VPN
   - Data Center
-section: issue
+section: notice
 informational: false
 pin: true
 ---
