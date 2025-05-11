@@ -13,7 +13,7 @@ affected:
   - Internet
   - VPN
   - Data Center
-section: notice
+section: issue
 informational: false
 pin: true
 ---
