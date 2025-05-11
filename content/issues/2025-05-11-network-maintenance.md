@@ -2,7 +2,6 @@
 title: Network Maintenance
 date: 2025-05-11 07:00:00
 resolved: false
-resolvedWhen: 2025-05-11 10:00:00
 severity: down
 affected:
   - Application Servers
