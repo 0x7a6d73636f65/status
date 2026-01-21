@@ -1,7 +1,7 @@
 ---
 title: Network Maintenance
 date: 2026-01-25 07:00:00
-resolved: false
+resolved: true
 resolvedWhen: 2026-01-25 8:00:00
 severity: notice
 affected:
@@ -16,7 +16,7 @@ affected:
   - Data Center
 section: issue
 informational: true
-pin: false
+pin: true
 ---
 
 **Time**: 2026-01-25 07:00:00
