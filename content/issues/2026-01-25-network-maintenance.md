@@ -3,7 +3,7 @@ title: Network Maintenance
 date: 2026-01-25 07:00:00
 resolved: false
 resolvedWhen: 2026-01-25 8:00:00
-severity: down
+severity: notice
 affected:
   - Application Servers
   - Employee Portal
