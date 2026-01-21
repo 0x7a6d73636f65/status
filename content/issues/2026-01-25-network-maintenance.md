@@ -15,7 +15,7 @@ affected:
   - VPN
   - Data Center
 section: issue
-informational: false
+informational: true
 pin: true
 ---
 
