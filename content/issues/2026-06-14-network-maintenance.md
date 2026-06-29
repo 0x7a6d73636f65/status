@@ -16,7 +16,7 @@ affected:
   - Data Center
 section: issue
 informational: true
-pin: true
+pin: false
 ---
 
 **Time**: 2026-06-14 06:00:00
