@@ -27,3 +27,7 @@ pin: true
 **11:48AM** - Comcast on-site, no ETA for resolution.
 
 **1:41PM** - Technicians have found where the fiber cut/break causing the network outage is as of 1:30PM and have teams preparing for the repairs. Still no confirmed ETA for resolution at this time.
+
+**2:51PM** - Technicians continue to work on the issue and suspect there may be a second fiber break. At this time there is still no ETR unfortunately. 
+
+**3:52PM** - Fiber splicing has been completed, but the network remains down. Technicians are continuing to troubleshoot. No ETR at this time.
