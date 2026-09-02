@@ -168,10 +168,6 @@ params:
       category: Escape Services
       displayName: Escape Online6
       description: Web version of the Escape Online 5 client.
-    - name: Aeries
-      category: Hosted Services
-      displayName: Aeries SIS
-      description: Web server for Aeries Student Information System.
     - name: Network Monitoring
       category: Hosted Services
       description: Web server for network monitoring and utilization services.
