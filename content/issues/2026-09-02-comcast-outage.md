@@ -1,6 +1,6 @@
 ---
 title: Comcast Outage
-date: 2026-09-02 10:20AM
+date: 2026-09-02 10:20:00
 resolved: false
 resolvedWhen: 2026-09-02 17:00:00
 severity: down
