@@ -1,8 +1,8 @@
 ---
 title: Comcast Outage
 date: 2026-09-02 10:20:00
-resolved: false
-resolvedWhen: 2026-09-02 17:00:00
+resolved: true
+resolvedWhen: 2026-09-02 21:00:00
 severity: down
 affected:
   - Application Servers
@@ -17,8 +17,10 @@ affected:
   - Juvenile Hall
 section: issue
 informational: false
-pin: true
+pin: false
 ---
+
+**9:00PM** - Outage has been resolved, Comcast is hands off.
 
 **3:52PM** - Fiber splicing has been completed, but the network remains down. Technicians are continuing to troubleshoot. No ETR at this time.
 
